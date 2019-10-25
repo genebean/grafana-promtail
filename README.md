@@ -1,3 +1,8 @@
+# MOVED to Grafana
+
+This repo is being archived as all code has been moved to https://github.com/grafana/puppet-promtail
+
+
 # promtail
 
 ![](https://img.shields.io/puppetforge/pdk-version/grafana/promtail.svg?style=popout)
